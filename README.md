@@ -9,9 +9,10 @@ I'm Janusz, author of the apps "Flightista" and "Intervallical" for iOS.
 - [**Flightista**](https://apps.apple.com/pl/app/flightista/id6581491171?l=pl)
 - [**Intervallical**](https://apps.apple.com/pl/app/intervallical/id1578174278?l=pl)
 
-## 🛠️ Languages & Frameworks
+## 🛠️ Languages, Frameworks, Tools
 - **Languages**: Swift, Python, C++
 - **Frameworks**: UIKit, SwiftUI, MapKit, AVFoundation, Keras
+- **Tools**: Xcode, Git, Instruments
 
 ## 🤓 Interests
 I always had a knack for tinkering with things and building a deeper understanding of how stuff works.
@@ -27,6 +28,7 @@ Picking up programming was simply a natural progression of that curiosity. Here'
 ## 🌱 Currently learning
 - **Apple Metal**
 - **C++**
+- **CMake**
 - **SFML**
 - **Audio Programming**
 - **Optimization Techniques**
