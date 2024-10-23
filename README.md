@@ -6,6 +6,8 @@
 
 ## Hi there! 👋
 I'm Janusz, author of the apps "Flightista" and "Intervallical" for iOS.
+- [**Flightista**](https://apps.apple.com/pl/app/flightista/id6581491171?l=pl)
+- [**Intervallical**](https://apps.apple.com/pl/app/intervallical/id1578174278?l=pl)
 
 ## 🛠️ Languages & Frameworks
 - **Languages**: Swift, Python, C++
