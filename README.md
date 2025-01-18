@@ -21,7 +21,7 @@ Picking up programming was simply a natural progression of that curiosity. Here'
 - **Swift** - My favourite programming language. Learning about its inner workings is what I love doing :)
 - **iOS Development** - Creating applications that people use is something that really brings me joy.
 - **Graphics Programming** - Rendering techniques and how it's possible to simulate real-world is something that I really want to get a good understanding of.
-- **C++** - Language that I was always drawn to, but also intimidated. Due to my fascination with graphics programming, I picked it up recently.
+- **C++** - Language that I was always drawn to, but also intimidated by. Due to my fascination with graphics programming, I picked it up recently.
 - **Guitar** - One of my biggest passions in life. Can't imagine my life without it.
 - **Photography** - Indirectly sparked my interest in computer graphics :)
 
