@@ -2,6 +2,10 @@
   <a href="https://www.linkedin.com/in/janusz-p-371a1818a/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/" alt="LinkedIn"/>
   </a>
+  <a href="https://https://bsky.app/profile/januszcodes.bsky.social">
+      <img src="https://img.shields.io/badge/BlueSky-208bfe" alt="BlueSky"/>
+  </a>
+
 </div>
 
 ## Hi there! 👋
