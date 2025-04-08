@@ -9,7 +9,8 @@
 </div>
 
 ## Hi there! 👋
-I'm Janusz, author of the apps "Flightista" and "Intervallical" for iOS.
+I'm Janusz, author of reqmatch.com, "Flightista" (iOS), and "Intervallical" (iOS).
+- [**reqmatch_**](https://reqmatch.com)
 - [**Flightista**](https://apps.apple.com/pl/app/flightista/id6581491171?l=pl)
 - [**Intervallical**](https://apps.apple.com/pl/app/intervallical/id1578174278?l=pl)
 
