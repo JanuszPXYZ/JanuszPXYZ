@@ -19,7 +19,7 @@ I'm Janusz, author of "Hacksy" (iOS), reqmatch.com, "Flightista" (iOS), and "Int
 ## 🛠️ Languages, Frameworks, Tools
 - **Languages**: Swift, Python, C++
 - **Frameworks**: UIKit, SwiftUI, MapKit, AVFoundation, Keras
-- **Tools**: Xcode, Git, Instruments
+- **Tools**: Xcode, Git, Instruments, Bazel, vim
 
 ## 🤓 Interests
 I always had a knack for tinkering with things and building a deeper understanding of how stuff works.
