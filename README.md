@@ -9,7 +9,7 @@
 </div>
 
 ## Hi there! 👋
-I'm Janusz, author of "Hacksy" (iOS), reqmatch.com, "Flightista" (iOS), and "Intervallical" (iOS).
+I'm Janusz, author of "Hacksy" (iOS, 2025), reqmatch.com (2025), "Flightista" (iOS, 2024), and "Intervallical" (iOS, 2021).
 - [**Hacksy**](https://apps.apple.com/pl/app/hacksy/id6751539200?l=pl)
 - [**bazel-modjool-gen**](https://github.com/JanuszPXYZ/bazel-modjool-gen)
 - [**reqmatch_**](https://reqmatch.com)
